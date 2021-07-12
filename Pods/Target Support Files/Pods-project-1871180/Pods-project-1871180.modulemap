@@ -1,0 +1,6 @@
+framework module Pods_project_1871180 {
+  umbrella header "Pods-project-1871180-umbrella.h"
+
+  export *
+  module * { export * }
+}
